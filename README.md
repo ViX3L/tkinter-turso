@@ -14,7 +14,7 @@ A desktop application for managing pets with offline-first architecture using Tk
 ## Project Structure
 
 ```
-pet_manager/
+tkinter-turso/
 ├── main.py              # Application entry point
 ├── app.py               # Main application controller
 ├── config.py            # Configuration settings
@@ -35,7 +35,7 @@ pet_manager/
 ### 1. Install Dependencies
 
 ```bash
-cd pet_manager
+cd tkinter-turso
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
