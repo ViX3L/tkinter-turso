@@ -1,0 +1,8 @@
+# Turso/LibSQL client for Python
+libsql-experimental>=0.0.47
+
+# Password hashing
+bcrypt>=4.1.2
+
+# Environment variables
+python-dotenv>=1.0.0
